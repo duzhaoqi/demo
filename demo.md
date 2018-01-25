@@ -59,3 +59,67 @@ ___我还是粗斜体___
 	1. 爱好：练球
 	2. 音乐：哈哈
 
+## 链接Demo
+
+### 引用式链接
+
+- 外部链接：[百度]
+- 外部链接：[百度][baidu]
+- 内部链接，仓库内链接：[index.html]
+- 内部链接，页面内的链接：[标题Demo]
+
+### 内嵌式链接
+
+- 外部链接：[百度](www.baidu.com)
+- 内部链接，仓库内链接：[index.html](index.html)
+- 内部链接，页面内的链接：[标题Demo](###-标题Demo)
+
+
+## 图片链接Demo
+
+### 外部链接
+
+![logo](http://www.duzhaoqi.top/wp-content/themes/JieStyle-Two/images/avatar.jpg  "logo")
+
+### 内部图片链接
+
+![tu](img/1.png "图片")
+
+### 引用式链接
+
+![logo][logo]
+
+
+## 引用Demo
+
+>土地是以它的肥沃和收获而被估价的；才能也是土地，不过它生产的不是粮食，而是真理。如果只能滋生瞑想和幻想的话，即使再大的才能也只是砂地或盐池，那上面连小草也长不出来的。 —— 别林斯基
+
+>一层引用
+>>二层引用
+>>>三层引用
+
+## 代码块Demo
+
+- 行内代码
+
+假如说，我们让`int x = 255`的话，就是不对的。
+
+- 块式代码
+
+```javascript
+var a = 34
+console.log(a)
+```
+- 另外一种
+
+		var a = 34
+		console.log(a)
+
+<!--下面是引用式链接-->
+
+[百度]: www.baidu.com
+[baidu]: www.baidu.com
+[index.html]: index.html
+[标题Demo]: ###-标题Demo
+
+[logo]: http://www.duzhaoqi.top/wp-content/themes/JieStyle-Two/images/avatar.jpg
