@@ -114,6 +114,36 @@ console.log(a)
 
 		var a = 34
 		console.log(a)
+	
+## 分割线Demo
+
+### 方式一
+
+---
+
+### 方式二
+
+***
+
+### 方式三
+___
+
+## 表格Demo
+
+|    name     |  age |   sex  |
+|  --------       |-----  |  ----    |
+|  duzhaoqi  |  23  |  man  |
+|   it          |   is | ![logo] |
+
+## GFMDemo
+
+
+- [ ] test1
+- [x] test2
+- [ ] test3
+
+表情：
+:+1:
 
 <!--下面是引用式链接-->
 
